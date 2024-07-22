@@ -4,8 +4,8 @@ namespace CSharp_Code_Examples.Basic
 {
     public static class SortingAlgorithms
     {
-        // Authors: [Your Name]
-        // Demonstrates the implementation of Bubble Sort and Quick Sort algorithms
+        // Authors: Obasa Joseph
+        // Demonstrating the implementation of Bubble Sort and Quick Sort algorithms
         public static void run()
         {
             int[] array = { 64, 34, 25, 12, 22, 11, 90 };
